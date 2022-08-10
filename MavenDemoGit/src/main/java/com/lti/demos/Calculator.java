@@ -3,6 +3,7 @@ package com.lti.demos;
 public class Calculator {
 	
 	public String sayHello() {
+		System.out.println("New line");
 		return "Hello World";
 	}
 
